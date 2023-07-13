@@ -60,4 +60,6 @@ This project covers key concepts of data augmentations, creating datasets, and u
 
 <h2><b> Credits</b></h2>This project uses a human dataset, original author of the dataset is VikramShenoy97 and the data set is available: https://github.com/VikramShenoy97/Human-Segmentation-Dataset
 <h2> How to run ?</h2>
-Open the file "ImageSegmentationWithPyTorch.ipynb" in google colab and run shells from top to bottom. To watch video tutorial click here.
+Open the file "ImageSegmentationWithPyTorch.ipynb" in google colab and run shells from top to bottom. To watch the video tutorial click here.
+<h2> Watch YouTube Video</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H40CYq5-eu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
