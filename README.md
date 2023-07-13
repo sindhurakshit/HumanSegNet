@@ -1,3 +1,4 @@
+<img src="Person Segmentation.png" alt="Person Segmentation.png model output">
 # HumanSegNet
 HumanSegNet
 # Person Image Segmentation with PyTorch
