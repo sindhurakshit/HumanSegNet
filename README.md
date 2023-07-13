@@ -58,4 +58,4 @@ This project covers key concepts of data augmentations, creating datasets, and u
   <li><b> </b></li>
   </ul>
 
-<h2><b> Credits</b>This project uses a human dataset, original author of the dataset is VikramShenoy97 and the data set is available: https://github.com/VikramShenoy97/Human-Segmentation-Dataset</h2>
+<h2><b> Credits</b></h2>This project uses a human dataset, original author of the dataset is VikramShenoy97 and the data set is available: https://github.com/VikramShenoy97/Human-Segmentation-Dataset
