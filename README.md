@@ -62,5 +62,7 @@ This project covers key concepts of data augmentations, creating datasets, and u
 <h2> How to run ?</h2>
 Open the file "ImageSegmentationWithPyTorch.ipynb" in google colab and run shells from top to bottom. To watch the video tutorial click here.
 <h2> Watch YouTube Video</h2>
-<video>https://youtu.be/H40CYq5-eu4</video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=p0POR00Fi_U
+" target="_blank"><img src="http://img.youtube.com/vi/p0POR00Fi_U/0.jpg" 
+alt="YouTube  Video Link" width="240" height="180" border="10" /></a>
 
