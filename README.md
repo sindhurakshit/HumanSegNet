@@ -1,5 +1,5 @@
 <img src="Person Segmentation.png" alt="Person Segmentation.png model output">
-# HumanSegNet
+<h1>HumanSegNet</h1>
 HumanSegNet
 # Person Image Segmentation with PyTorch
 Image segmentation is a computer vision technique that involves dividing an image into different regions or segments based on certain characteristics or criteria. The goal of image segmentation is to partition an image into meaningful and semantically coherent regions to facilitate further analysis or understanding of the image.
